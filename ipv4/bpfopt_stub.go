@@ -6,7 +6,7 @@
 
 package ipv4
 
-import "golang.org/x/net/bpf"
+import "gitwangjian/net/bpf"
 
 // SetBPF attaches a BPF program to the connection.
 //
