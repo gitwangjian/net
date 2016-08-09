@@ -8,7 +8,7 @@ import (
 	"net"
 	"syscall"
 
-	"golang.org/x/net/internal/iana"
+	"gitwangjian/net/internal/iana"
 )
 
 const (
