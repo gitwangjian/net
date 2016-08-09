@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"golang.org/x/net/internal/iana"
+	"gitwangjian/net/internal/iana"
 )
 
 var (
