@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"time"
 
-	"golang.org/x/net/context"
+	"gitwangjian/net/context"
 )
 
 func ExampleWithTimeout() {
