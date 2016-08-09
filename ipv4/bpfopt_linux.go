@@ -8,7 +8,7 @@ import (
 	"os"
 	"unsafe"
 
-	"golang.org/x/net/bpf"
+	"gitwangjian/net/bpf"
 )
 
 // SetBPF attaches a BPF program to the connection.
