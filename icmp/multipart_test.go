@@ -10,10 +10,10 @@ import (
 	"reflect"
 	"testing"
 
-	"golang.org/x/net/icmp"
-	"golang.org/x/net/internal/iana"
-	"golang.org/x/net/ipv4"
-	"golang.org/x/net/ipv6"
+	"gitwangjian/net/icmp"
+	"gitwangjian/net/internal/iana"
+	"gitwangjian/net/ipv4"
+	"gitwangjian/net/ipv6"
 )
 
 var marshalAndParseMultipartMessageForIPv4Tests = []icmp.Message{
