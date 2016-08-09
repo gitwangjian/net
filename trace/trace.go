@@ -77,8 +77,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"golang.org/x/net/context"
-	"golang.org/x/net/internal/timeseries"
+	"gitwangjian/net/context"
+	"gitwangjian/net/internal/timeseries"
 )
 
 // DebugUseAfterFinish controls whether to debug uses of Trace values after finishing.
