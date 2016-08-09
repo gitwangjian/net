@@ -24,8 +24,8 @@ import (
 	"sync"
 	"time"
 
-	"golang.org/x/net/http2/hpack"
-	"golang.org/x/net/lex/httplex"
+	"gitwangjian/net/http2/hpack"
+	"gitwangjian/net/lex/httplex"
 )
 
 const (
