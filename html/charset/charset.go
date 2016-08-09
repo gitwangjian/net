@@ -16,11 +16,11 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"golang.org/x/net/html"
-	"golang.org/x/text/encoding"
-	"golang.org/x/text/encoding/charmap"
-	"golang.org/x/text/encoding/htmlindex"
-	"golang.org/x/text/transform"
+	"gitwangjian/net/html"
+	"gitwangjian/text/encoding"
+	"gitwangjian/text/encoding/charmap"
+	"gitwangjian/text/encoding/htmlindex"
+	"gitwangjian/text/transform"
 )
 
 // Lookup returns the encoding with the specified label, and its canonical
