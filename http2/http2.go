@@ -28,7 +28,7 @@ import (
 	"strings"
 	"sync"
 
-	"golang.org/x/net/lex/httplex"
+	"gitwangjian/net/lex/httplex"
 )
 
 var (
