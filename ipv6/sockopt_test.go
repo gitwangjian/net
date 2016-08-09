@@ -10,9 +10,9 @@ import (
 	"runtime"
 	"testing"
 
-	"golang.org/x/net/internal/iana"
-	"golang.org/x/net/internal/nettest"
-	"golang.org/x/net/ipv6"
+	"gitwangjian/net/internal/iana"
+	"gitwangjian/net/internal/nettest"
+	"gitwangjian/net/ipv6"
 )
 
 var supportsIPv6 bool = nettest.SupportsIPv6()
