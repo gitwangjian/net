@@ -12,8 +12,8 @@ import (
 	"sync"
 	"testing"
 
-	"golang.org/x/net/internal/nettest"
-	"golang.org/x/net/ipv4"
+	"gitwangjian/net/internal/nettest"
+	"gitwangjian/net/ipv4"
 )
 
 func benchmarkUDPListener() (net.PacketConn, net.Addr, error) {
