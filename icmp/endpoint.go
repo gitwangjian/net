@@ -10,8 +10,8 @@ import (
 	"syscall"
 	"time"
 
-	"golang.org/x/net/ipv4"
-	"golang.org/x/net/ipv6"
+	"gitwangjian/net/ipv4"
+	"gitwangjian/net/ipv6"
 )
 
 var _ net.PacketConn = &PacketConn{}
