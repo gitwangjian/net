@@ -16,7 +16,7 @@ import (
 	"testing"
 	"time"
 
-	"gitwangjian/net/internal/nettest"
+	"github.com/gitwangjian/net/internal/nettest"
 )
 
 func TestLimitListener(t *testing.T) {
