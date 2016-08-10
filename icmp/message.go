@@ -11,7 +11,7 @@
 // ICMP extensions for MPLS are defined in RFC 4950.
 // ICMP extensions for interface and next-hop identification are
 // defined in RFC 5837.
-package icmp // import "golang.org/x/net/icmp"
+package icmp 
 
 import (
 	"encoding/binary"
@@ -19,9 +19,9 @@ import (
 	"net"
 	"syscall"
 
-	"gitwangjian/net/internal/iana"
-	"gitwangjian/net/ipv4"
-	"gitwangjian/net/ipv6"
+	"github.com/gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/ipv4"
+	"github.com/gitwangjian/net/ipv6"
 )
 
 var (
