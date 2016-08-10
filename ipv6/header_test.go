@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
-	"gitwangjian/net/internal/iana"
-	"gitwangjian/net/ipv6"
+	"github.com/gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/ipv6"
 )
 
 var (
