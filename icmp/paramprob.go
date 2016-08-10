@@ -6,7 +6,7 @@ package icmp
 
 import (
 	"encoding/binary"
-	"gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/internal/iana"
 )
 
 // A ParamProb represents an ICMP parameter problem message body.
