@@ -4,7 +4,7 @@
 
 package ipv4
 
-import "gitwangjian/net/internal/iana"
+import "github.com/gitwangjian/net/internal/iana"
 
 // An ICMPType represents a type of ICMP message.
 type ICMPType int
