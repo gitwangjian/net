@@ -18,7 +18,7 @@ import (
 	"strings"
 	"testing"
 
-	"gitwangjian/net/html/atom"
+	"github.com/gitwangjian/net/html/atom"
 )
 
 // readParseTest reads a single test case from r.
