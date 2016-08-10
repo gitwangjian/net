@@ -11,7 +11,7 @@ import (
 	"os"
 	"unsafe"
 
-	"gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/internal/iana"
 )
 
 func getInt(fd int, opt *sockOpt) (int, error) {
