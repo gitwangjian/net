@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"gitwangjian/net/bpf"
-	"gitwangjian/net/ipv4"
+	"github.com/gitwangjian/net/bpf"
+	"github.com/gitwangjian/net/ipv4"
 )
 
 // A virtualMachine is a BPF virtual machine which can process an
