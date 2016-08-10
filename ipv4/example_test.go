@@ -12,8 +12,8 @@ import (
 	"runtime"
 	"time"
 
-	"gitwangjian/net/icmp"
-	"gitwangjian/net/ipv4"
+	"github.com/gitwangjian/net/icmp"
+	"github.com/gitwangjian/net/ipv4"
 )
 
 func ExampleConn_markingTCP() {
