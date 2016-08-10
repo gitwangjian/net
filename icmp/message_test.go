@@ -9,10 +9,10 @@ import (
 	"reflect"
 	"testing"
 
-	"gitwangjian/net/icmp"
-	"gitwangjian/net/internal/iana"
-	"gitwangjian/net/ipv4"
-	"gitwangjian/net/ipv6"
+	"github.com/gitwangjian/net/icmp"
+	"github.com/gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/ipv4"
+	"github.com/gitwangjian/net/ipv6"
 )
 
 var marshalAndParseMessageForIPv4Tests = []icmp.Message{
