@@ -56,7 +56,7 @@ import (
 	"sync"
 	"time"
 
-	"gitwangjian/net/http2/hpack"
+	"github.com/gitwangjian/net/http2/hpack"
 )
 
 const (
