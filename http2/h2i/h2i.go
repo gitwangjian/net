@@ -35,9 +35,9 @@ import (
 	"strconv"
 	"strings"
 
-	"gitwangjian/crypto/ssh/terminal"
-	"gitwangjian/net/http2"
-	"gitwangjian/net/http2/hpack"
+	"github.com/gitwangjian/crypto/ssh/terminal"
+	"github.com/gitwangjian/net/http2"
+	"github.com/gitwangjian/net/http2/hpack"
 )
 
 // Flags
