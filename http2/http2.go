@@ -28,7 +28,7 @@ import (
 	"strings"
 	"sync"
 
-	"gitwangjian/net/lex/httplex"
+	"github.com/gitwangjian/net/lex/httplex"
 )
 
 var (
