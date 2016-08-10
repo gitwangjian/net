@@ -12,8 +12,8 @@ import (
 	"sync"
 	"testing"
 
-	"gitwangjian/net/internal/nettest"
-	"gitwangjian/net/ipv4"
+	"github.com/gitwangjian/net/internal/nettest"
+	"github.com/gitwangjian/net/ipv4"
 )
 
 func benchmarkUDPListener() (net.PacketConn, net.Addr, error) {
