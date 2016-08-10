@@ -24,8 +24,8 @@ import (
 	"sync"
 	"time"
 
-	"gitwangjian/net/http2/hpack"
-	"gitwangjian/net/lex/httplex"
+	"github.com/gitwangjian/net/http2/hpack"
+	"github.com/gitwangjian/net/lex/httplex"
 )
 
 const (
