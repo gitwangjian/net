@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"log"
 
-	"gitwangjian/net/websocket"
+	"github.com/gitwangjian/net/websocket"
 )
 
 // This example demonstrates a trivial client.
