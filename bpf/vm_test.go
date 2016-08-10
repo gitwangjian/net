@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"gitwangjian/net/bpf"
+	"github.com/gitwangjian/net/bpf"
 )
 
 var _ bpf.Instruction = unknown{}
