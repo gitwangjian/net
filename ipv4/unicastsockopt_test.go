@@ -9,9 +9,9 @@ import (
 	"runtime"
 	"testing"
 
-	"gitwangjian/net/internal/iana"
-	"gitwangjian/net/internal/nettest"
-	"gitwangjian/net/ipv4"
+	"github.com/gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/internal/nettest"
+	"github.com/gitwangjian/net/ipv4"
 )
 
 func TestConnUnicastSocketOptions(t *testing.T) {
