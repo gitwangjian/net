@@ -8,8 +8,8 @@ import (
 	"net"
 	"testing"
 
-	"gitwangjian/net/bpf"
-	"gitwangjian/net/ipv4"
+	"github.com/gitwangjian/net/bpf"
+	"github.com/gitwangjian/net/ipv4"
 )
 
 func TestVMLoadAbsoluteOffsetOutOfBounds(t *testing.T) {
