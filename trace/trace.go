@@ -60,7 +60,7 @@ The /debug/events HTTP endpoint organizes the event logs by family and
 by time since the last error.  The expanded view displays recent log
 entries and the log's call stack.
 */
-package trace // import "golang.org/x/net/trace"
+package trace 
 
 import (
 	"bytes"
@@ -77,8 +77,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"gitwangjian/net/context"
-	"gitwangjian/net/internal/timeseries"
+	"github.com/gitwangjian/net/context"
+	"github.com/gitwangjian/net/internal/timeseries"
 )
 
 // DebugUseAfterFinish controls whether to debug uses of Trace values after finishing.
