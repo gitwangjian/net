@@ -5,7 +5,7 @@
 package html
 
 import (
-	"gitwangjian/net/html/atom"
+	"github.com/gitwangjian/net/html/atom"
 )
 
 // A NodeType is the type of a Node.
