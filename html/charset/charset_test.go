@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"gitwangjian/text/transform"
+	"github.com/gitwangjian/text/transform"
 )
 
 func transformString(t transform.Transformer, s string) (string, error) {
