@@ -12,9 +12,9 @@ import (
 	"runtime"
 	"syscall"
 
-	"gitwangjian/net/internal/iana"
-	"gitwangjian/net/ipv4"
-	"gitwangjian/net/ipv6"
+	"github.com/gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/ipv4"
+	"github.com/gitwangjian/net/ipv6"
 )
 
 const sysIP_STRIPHDR = 0x17 // for now only darwin supports this option
