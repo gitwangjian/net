@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/internal/iana"
 )
 
 func getInt(fd syscall.Handle, opt *sockOpt) (int, error) {
