@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"gitwangjian/net/bpf"
-	"gitwangjian/net/ipv4"
+	"github.com/gitwangjian/net/bpf"
+	"github.com/gitwangjian/net/ipv4"
 )
 
 func TestBPF(t *testing.T) {
