@@ -24,7 +24,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"gitwangjian/net/webdav"
+	"github.com/gitwangjian/net/webdav"
 )
 
 var port = flag.Int("port", 9999, "server port")
