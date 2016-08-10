@@ -11,8 +11,8 @@ import (
 	"net/http"
 	"time"
 
-	"gitwangjian/net/http2/hpack"
-	"gitwangjian/net/lex/httplex"
+	"github.com/gitwangjian/net/http2/hpack"
+	"github.com/gitwangjian/net/lex/httplex"
 )
 
 // writeFramer is implemented by any type that is used to write frames.
