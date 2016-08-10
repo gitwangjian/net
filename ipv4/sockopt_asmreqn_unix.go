@@ -11,7 +11,7 @@ import (
 	"os"
 	"unsafe"
 
-	"gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/internal/iana"
 )
 
 func getsockoptIPMreqn(fd, name int) (*net.Interface, error) {
