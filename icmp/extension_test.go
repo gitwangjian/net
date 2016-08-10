@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/internal/iana"
 )
 
 var marshalAndParseExtensionTests = []struct {
