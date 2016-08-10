@@ -8,7 +8,7 @@ import (
 	"net"
 	"syscall"
 
-	"gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/internal/iana"
 )
 
 const (
