@@ -12,10 +12,10 @@ import (
 	"testing"
 	"time"
 
-	"gitwangjian/net/icmp"
-	"gitwangjian/net/internal/iana"
-	"gitwangjian/net/internal/nettest"
-	"gitwangjian/net/ipv6"
+	"github.com/gitwangjian/net/icmp"
+	"github.com/gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/internal/nettest"
+	"github.com/gitwangjian/net/ipv6"
 )
 
 func TestPacketConnReadWriteUnicastUDP(t *testing.T) {
