@@ -10,7 +10,7 @@ import (
 	"log"
 	"strings"
 
-	"gitwangjian/net/html"
+	"github.com/gitwangjian/net/html"
 )
 
 func ExampleParse() {
