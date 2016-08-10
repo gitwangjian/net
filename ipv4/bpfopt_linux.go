@@ -8,7 +8,7 @@ import (
 	"os"
 	"unsafe"
 
-	"gitwangjian/net/bpf"
+	"github.com/gitwangjian/net/bpf"
 )
 
 // SetBPF attaches a BPF program to the connection.
