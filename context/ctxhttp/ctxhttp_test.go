@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"gitwangjian/net/context"
+	"github.com/gitwangjian/net/context"
 )
 
 const (
