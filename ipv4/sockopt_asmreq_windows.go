@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/internal/iana"
 )
 
 func setsockoptIPMreq(fd syscall.Handle, name int, ifi *net.Interface, grp net.IP) error {
