@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"time"
 
-	"gitwangjian/net/context"
+	"github.com/gitwangjian/net/context"
 )
 
 func ExampleWithTimeout() {
