@@ -10,8 +10,8 @@ import (
 	"os"
 	"runtime"
 
-	"gitwangjian/net/icmp"
-	"gitwangjian/net/ipv6"
+	"github.com/gitwangjian/net/icmp"
+	"github.com/gitwangjian/net/ipv6"
 )
 
 func ExamplePacketConn_nonPrivilegedPing() {
