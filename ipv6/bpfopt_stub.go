@@ -6,7 +6,7 @@
 
 package ipv6
 
-import "gitwangjian/net/bpf"
+import "github.com/gitwangjian/net/bpf"
 
 // SetBPF attaches a BPF program to the connection.
 //
