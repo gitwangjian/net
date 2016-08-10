@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"gitwangjian/net/html/atom"
+	"github.com/gitwangjian/net/html/atom"
 )
 
 // A TokenType is the type of a Token.
