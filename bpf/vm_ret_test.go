@@ -7,7 +7,7 @@ package bpf_test
 import (
 	"testing"
 
-	"gitwangjian/net/bpf"
+	"github.com/gitwangjian/net/bpf"
 )
 
 func TestVMRetA(t *testing.T) {
