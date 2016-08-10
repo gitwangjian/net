@@ -32,7 +32,7 @@ import (
 	"sort"
 	"strings"
 
-	"gitwangjian/net/idna"
+	"github.com/gitwangjian/net/idna"
 )
 
 const (
