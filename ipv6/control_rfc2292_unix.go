@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/internal/iana"
 )
 
 func marshal2292HopLimit(b []byte, cm *ControlMessage) []byte {
