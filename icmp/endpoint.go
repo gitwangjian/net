@@ -10,8 +10,8 @@ import (
 	"syscall"
 	"time"
 
-	"gitwangjian/net/ipv4"
-	"gitwangjian/net/ipv6"
+	"github.com/gitwangjian/net/ipv4"
+	"github.com/gitwangjian/net/ipv6"
 )
 
 var _ net.PacketConn = &PacketConn{}
