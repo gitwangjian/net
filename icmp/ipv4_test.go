@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"testing"
 
-	"gitwangjian/net/ipv4"
+	"github.com/gitwangjian/net/ipv4"
 )
 
 type ipv4HeaderTest struct {
