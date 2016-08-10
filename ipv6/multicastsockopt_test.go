@@ -9,8 +9,8 @@ import (
 	"runtime"
 	"testing"
 
-	"gitwangjian/net/internal/nettest"
-	"gitwangjian/net/ipv6"
+	"github.com/gitwangjian/net/internal/nettest"
+	"github.com/gitwangjian/net/ipv6"
 )
 
 var packetConnMulticastSocketOptionTests = []struct {
