@@ -11,7 +11,7 @@ import (
 	"os"
 	"unsafe"
 
-	"gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/internal/iana"
 )
 
 func setsockoptIPMreq(fd, name int, ifi *net.Interface, grp net.IP) error {
