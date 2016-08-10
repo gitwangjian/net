@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/internal/iana"
 )
 
 var (
