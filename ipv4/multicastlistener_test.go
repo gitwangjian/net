@@ -9,8 +9,8 @@ import (
 	"runtime"
 	"testing"
 
-	"gitwangjian/net/internal/nettest"
-	"gitwangjian/net/ipv4"
+	"github.com/gitwangjian/net/internal/nettest"
+	"github.com/gitwangjian/net/ipv4"
 )
 
 var udpMultipleGroupListenerTests = []net.Addr{
