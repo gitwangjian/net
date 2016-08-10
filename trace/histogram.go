@@ -13,7 +13,7 @@ import (
 	"log"
 	"math"
 
-	"gitwangjian/net/internal/timeseries"
+	"github.com/gitwangjian/net/internal/timeseries"
 )
 
 const (
