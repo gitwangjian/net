@@ -8,7 +8,7 @@ import (
 	"io"
 	"net/http"
 
-	"gitwangjian/net/websocket"
+	"github.com/gitwangjian/net/websocket"
 )
 
 // Echo the data received on the WebSocket.
