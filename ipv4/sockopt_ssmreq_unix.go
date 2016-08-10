@@ -11,7 +11,7 @@ import (
 	"os"
 	"unsafe"
 
-	"gitwangjian/net/internal/iana"
+	"github.com/gitwangjian/net/internal/iana"
 )
 
 var freebsd32o64 bool
