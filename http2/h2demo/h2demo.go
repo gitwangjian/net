@@ -29,7 +29,7 @@ import (
 
 	"camlistore.org/pkg/googlestorage"
 	"go4.org/syncutil/singleflight"
-	"gitwangjian/net/http2"
+	"github.com/gitwangjian/net/http2"
 )
 
 var (
