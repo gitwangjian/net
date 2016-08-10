@@ -28,7 +28,7 @@ import (
 	"testing"
 	"time"
 
-	"gitwangjian/net/http2/hpack"
+	"github.com/gitwangjian/net/http2/hpack"
 )
 
 var (
